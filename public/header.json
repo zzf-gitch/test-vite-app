@@ -1,0 +1,142 @@
+[
+  {
+    "value": "id",
+    "label": "序号"
+  },
+  {
+    "label": "基本信息",
+    "em_header": [
+      {
+        "value": "name",
+        "label": "姓名"
+      },
+      {
+        "value": "department",
+        "label": "部门"
+      },
+      {
+        "value": "position",
+        "label": "职位"
+      },
+      {
+        "value": "level",
+        "label": "职级"
+      },
+      {
+        "value": "status",
+        "label": "状态"
+      }
+    ]
+  },
+  {
+    "label": "绩效指标",
+    "em_header": [
+      {
+        "label": "完成率",
+        "em_header": [
+          {
+            "value": "taskCompletion",
+            "label": "任务完成率"
+          },
+          {
+            "value": "projectCompletion",
+            "label": "项目完成率"
+          },
+          {
+            "value": "targetAchievement",
+            "label": "目标达成率"
+          }
+        ]
+      },
+      {
+        "label": "质量",
+        "em_header": [
+          {
+            "value": "qualityScore",
+            "label": "质量评分"
+          },
+          {
+            "value": "customerSatisfaction",
+            "label": "客户满意度"
+          },
+          {
+            "value": "errorRate",
+            "label": "错误率"
+          }
+        ]
+      },
+      {
+        "label": "效率",
+        "em_header": [
+          {
+            "value": "efficiency",
+            "label": "工作效率"
+          },
+          {
+            "value": "onTimeRate",
+            "label": "按时完成率"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "考勤情况",
+    "em_header": [
+      {
+        "value": "attendanceRate",
+        "label": "出勤率"
+      },
+      {
+        "value": "overtimeHours",
+        "label": "加班时长"
+      },
+      {
+        "value": "leaveDays",
+        "label": "请假天数"
+      },
+      {
+        "value": "lateTimes",
+        "label": "迟到次数"
+      }
+    ]
+  },
+  {
+    "label": "财务信息",
+    "em_header": [
+      {
+        "value": "salary",
+        "label": "月薪"
+      },
+      {
+        "value": "bonus",
+        "label": "奖金"
+      },
+      {
+        "value": "tax",
+        "label": "税费"
+      },
+      {
+        "value": "totalIncome",
+        "label": "总收入"
+      }
+    ]
+  },
+  {
+    "label": "其他信息",
+    "em_header": [
+      {
+        "value": "date",
+        "label": "入职日期"
+      },
+      {
+        "value": "experience",
+        "label": "工作经验"
+      },
+      {
+        "value": "score",
+        "label": "综合评分"
+      }
+    ]
+  }
+]
